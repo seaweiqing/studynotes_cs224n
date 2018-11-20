@@ -1,1 +1,2 @@
-<p style=""></p><p><b><font size="3">prerequisite:&nbsp;</font></b></p><p>- linear algebra review</p><p>- probability theorem review</p><p>- convex optimization review</p><div><br></div><p></p>
+# prerequisite
+<p style=""></p><p><font size="2">- linear algebra review</font></p><p><font size="2">- probability theorem review</font></p><p><font size="2">- convex optimization review</font></p><p></p>
