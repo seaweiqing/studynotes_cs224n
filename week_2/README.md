@@ -1,1 +1,2 @@
-
+# week 2: GloVe, word vector evaluation
+<p style=""></p><p><font size="2">- lecture 3: finish word2vec, GloVe intro</font></p><p><font size="2">- lecture notes02: GloVe, evaluation, Window classification</font></p><p><font size="2">- paper: GloVe_Global Vectors for Word Representation</font></p><p><font size="2">- paper: Evaluation methods for unsupervised word embeddings</font></p><p><font size="2">- paper: Improving Distributional Similarity with Lessons Learned from Word Embeddings</font></p><p></p>
